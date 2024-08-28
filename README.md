@@ -41,7 +41,7 @@ When application is running, visit [here](http://localhost:8080/swagger-ui/index
 <img width="1440" alt="image" src="https://github.com/ntritin62/Smart-Scheduler-BE/assets/104788686/cb2ab404-157d-4942-91a5-819565a803b1">
 <img width="1440" alt="image" src="https://github.com/ntritin62/Smart-Scheduler-BE/assets/104788686/3c724148-cf22-414c-b0fe-1c506d4b2ccd">
 <img width="1440" alt="image" src="https://github.com/ntritin62/Smart-Scheduler-BE/assets/104788686/c8661780-7105-49ee-8bf2-0d9847b6c6c7">
-<img width="1440" alt="image" src="https://github.com/ntritin62/Smart-Scheduler-BE/assets/104788686/a238842f-55f8-45fb-80a5-2a37f647f903">
+<img width="1440" alt="image" src="https://github.com/tuongioe/Smart-Scheduler-BE/blob/main/img1.png?raw=true">
 
 
 
