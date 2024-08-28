@@ -24,12 +24,12 @@ This repository provide API running Smart Scheduler Application.
 1. Run Docker desktop
 2. Navigate to the application directory:
    ```sh
-    cd .\IE303-Smart-Scheduler-Project-BE\
+    cd ./Smart-Scheduler-BE-main/
     ```
 3. Running Spring Boot application:
    - Using Maven:
    ```sh
-    .\mvnw spring-boot:run
+    ./mvnw spring-boot:run
     ```
    - Otherwise you can run it in your IDEA such as IntelliJ
 5. Server is running at [here](http://localhost:8080)
