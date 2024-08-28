@@ -1,0 +1,10 @@
+services:
+  mysql:
+    image: 'mysql:latest'
+    environment:
+      - 'MYSQL_DATABASE=task_calendar'
+      - 'MYSQL_PASSWORD=springstudent'
+      - 'MYSQL_USER=springstudent'
+      - 'MYSQL_ROOT_PASSWORD=root'
+    ports:
+      - '3307:3306'
